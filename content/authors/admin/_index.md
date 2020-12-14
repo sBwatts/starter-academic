@@ -51,9 +51,7 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,4 +65,4 @@ highlight_name: false
 Seth Watts is a graduate research assistant in the Center for Violence Prevention and Community Solutions at Arizona State University. His interests include the police, collabortive crime reduction strategies, enviornmental criminology. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Seth Watts CV.docx" "newtab" >}}CV{{< /staticref >}}.
