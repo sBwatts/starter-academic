@@ -1,26 +1,31 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Seth Watts
+
+# Username (this should match th folder name)
+authors:
+- admin 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Arizona State University 
+  url: https://cvpcs.asu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include policing, crime prevention, and neighborhoods and crime
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Police
+- Crime reduction strategies
+- CPTED
+- Policy 
 
 # Education to show in About widget
 education:
